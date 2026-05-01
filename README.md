@@ -1,4 +1,5 @@
 Pregnant Fitness Avatar Application
+
 Description
 This project focuses on the creation of a specialized 3D pregnant avatar designed for a fitness application. The goal of the thesis is to develop an interactive platform that provides tailored exercise videos led by a 3D avatar, customized for each trimester of pregnancy.
 
