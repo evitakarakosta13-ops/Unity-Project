@@ -23,3 +23,4 @@ Technical Integration: Seamless workflow from character generation to 3D animati
 
 Project Status
 Currently under development as part of my undergraduate thesis at the University of Macedonia, Department of Applied Informatics.
+The link is https://evitakarakosta13-ops.itch.io/pregnantmovement
